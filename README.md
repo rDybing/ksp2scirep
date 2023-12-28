@@ -27,7 +27,7 @@ Hit Return to go back to planet/moon selection.
 
 ## Run and build from source
 
-To build your own executable simply run you will need Go (aka Golang) 1.20.3 or newer installed.
+To build your own executable you will need Go (aka Golang) 1.20.3 or newer installed.
 
 <https://go.dev/>
 
