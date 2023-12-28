@@ -1,2 +1,5 @@
 # Exclude save files
 *.json
+
+# Exclude Windows binary
+*.exe

@@ -8,6 +8,10 @@ Locate the ksp2sr.exe in any location of your wish. Ensure that whatever folder 
 
 When a save file have been copied to the ´Saves´ folder, open the ksp2sr.exe app by either navigating to where the file is located and typing in ´ksp2sr.exe´ or by double clicking on the file from File-Explorer. Hell, you can in File-Explorer make a convenient little desktop shortcut to place wherever you want, and double click on that.
 
+#### Save File Location in File Explorer:
+
+```Local Disk(C:) > Users > Your User Name > AppData > LocalLow > Intercept Games > Kerbal Space Program 2 > Saves > Singleplayer > Your Career Name```
+
 This (if not launching from the CLI) will open a CLI window, and present you with the menu. If more than one save is in the ´Saves´ directory, you will be promted to select a save for interrogation.
 
 Press ´1´ through N to select relevant save. Press ´Q´ to quit.
@@ -51,9 +55,9 @@ If on - or compiling for - Windows, it might be prudent to add a ´.exe´ suffix
 - Version format: [major release].[new feature(s)].[bugfix patch-version]
 - Date format: yyyy-mm-dd
 
-### v.1.0.0: 2023-12-28
+### v.1.0.1: 2023-12-28
 
-- First release
+- Quick update as Windows Defender did not like a crosscompiled build from a Mac
 
 ## License: MIT
 
